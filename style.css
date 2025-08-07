@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #111;
+    color: #fff;
+}
+header {
+    background-color: #222;
+    padding: 1em;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+main {
+    padding: 1em;
+}
+section {
+    margin-bottom: 2em;
+}
+.movie, .series {
+    background-color: #333;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+footer {
+    background-color: #222;
+    text-align: center;
+    padding: 1em;
+}
